@@ -1,0 +1,19 @@
+Hello dear professor and TA
+
+This is my work for the assignment proposed on the last class Full-Stack Development 
+class held on October 11th in which we were told to execute and follow the 
+guidelines of the web page geeks for geeks for Django, in total there were 
+17 modules, I did all practices, and created some projects through the process
+but the one that has the most work it's called 'AnotherProject'.
+
+A lot of these modules had a very confusing code and some codes were not working
+appropriately for which I had to search different approaches and solutions 
+from other sources. In the end I end up making everything work smoothly as the
+geeks for geeks website intended.
+
+I documented every module step by step in my screenshots and also provided
+my github repository link for the code.
+
+Thank you very much have a great week.
+
+Ivan Velasco.
