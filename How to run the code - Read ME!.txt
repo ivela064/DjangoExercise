@@ -1,0 +1,22 @@
+
+1. I have provided a requirements.txt file that contains
+the necessary modules that are needed to run my code. This file can
+be found in the .rar file submitted for the assignment.
+
+2. Open your Microsoft Visual Studio Code IDE and open a terminal
+Create a new virtual environment on your machine and activate it
+
+3. Once in the environment use: pip install -r requirements.txt
+
+4. After the installation of the requirements has finished successfully 
+copy my project folder which is called 'AnotherProject' inside the 
+Scripts folder of your newly created virtual environment.
+
+5. Open the project folder with your Microsoft Visual Studio Code IDE 
+File > Open Folder and select my folder called AnotherProject.
+
+6. Once the project is open another terminal and activate the
+virtual environment that you created in your machine.
+
+7. Now you can do everything, use python manage.py runserver to run
+the server and check the code URLs and functions. That's it.
